@@ -16,6 +16,7 @@ namespace WindowsFormsApplication8
         {
             InitializeComponent();
             int a;
+            int b;
         }
 
         private void Form1_Load(object sender, EventArgs e)
